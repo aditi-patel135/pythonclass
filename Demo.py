@@ -83,7 +83,7 @@ mydict = {
 # print(type(mydict))
 
 # mydict = {
-#     101:"prashant",🤧🤧🤧🤧
+#     101:"prashant",
 #     102:"prashant",
 #     "103":"trivensh",
 #     "104":"anisih",
@@ -125,4 +125,5 @@ mydict = {
 name = "prashant"
 data = ['a','e','i','o','u']
 vowels =0
+
 con  = 0
